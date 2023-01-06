@@ -37,11 +37,11 @@ nav ul{
 }
 .header{
     background-color: #fff8f3;
-    background-image:  url('../Media/Image/Header_background.png'), url('../Media/Image/Developers.PNG');
-    background-repeat: no-repeat;
+    background-image: url();
+        background-repeat: no-repeat;
     background-position: bottom right, Left ;
     
-    
+    url('../Media/Image/Header_background.png'), url('../Media/Image/Developers.PNG');
     
     
 
@@ -51,8 +51,6 @@ nav ul{
     align-items: center;
     margin-top:100px ;
     margin-left: 200px;
-    margin-bottom: ;
-    margin-right: ;
 
     
 }
