@@ -8,7 +8,7 @@
 nav{
     display: flex;
     justify-content: space-between;
-    margin: 50px 200px;
+    padding: 70px 200px;
 }
 /* Header and navigation style */
 .nav-title{
