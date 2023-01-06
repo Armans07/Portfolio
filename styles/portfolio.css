@@ -139,3 +139,33 @@ main{
     color: #757575;
  
 }
+/*Resume style*/
+
+.resume-content{
+    display: flex;
+    gap: 24px;
+}
+.resume-item{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.resume .title{
+    font-weight: 700;
+    font-size: 25PX;
+    color: #474747;
+    margin-bottom: 20px;
+} 
+.resume .sub-title{
+    color: #757575;
+    font-weight: 600;
+    font-size: 20px;
+    margin-top: 10px;
+
+} 
+.resume .description{
+    color: #757575;
+} 
+.Resume-button{
+    text-align: center;
+    margin-top: 50px;
+}
